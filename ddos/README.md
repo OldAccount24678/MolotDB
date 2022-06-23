@@ -13,8 +13,8 @@
 Если около ip нету порта, то порт 9339!! 
 
 Проверить хост:
-— check-host.net
-— https://2ip.ru (ua? -> https://2ip.ua)
+/— https://check-host.net
+/— https://2ip.ru (ua? -> https://2ip.ua)
 
 
 
